@@ -1,6 +1,6 @@
 import sys, os
 from asterisk.agi import AGI
-from entities import Node
+from ura_agi.entities import Node
 
 
 class UraAgi:

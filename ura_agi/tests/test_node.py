@@ -1,5 +1,5 @@
 from unittest import TestCase
-from ura_agi import Node
+from ura_agi.entities import Node
 
 
 class NodeTestCase(TestCase):
