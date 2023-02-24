@@ -1,2 +1,0 @@
-pyst2
-wheel
